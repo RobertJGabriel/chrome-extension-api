@@ -1,6 +1,6 @@
 {
   "name": "chrome-extension-api",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An API for getting webstore information on a chrome extension by the id. IE the current users amount",
   "homepage": "https://www.robertgabriel.ninja",
   "author": {
